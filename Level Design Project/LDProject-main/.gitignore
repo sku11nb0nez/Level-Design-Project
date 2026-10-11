@@ -1,0 +1,166 @@
+
+Binaries/
+.vs/Detail/DesignTimeBuild/.dtbcache.v2
+.vs/Detail/FileContentIndex/14f106ba-28df-4467-a21a-0b58b03abd96.vsidx
+.vs/Detail/FileContentIndex/167bbcf6-2007-48eb-b542-6c8086ce5a64.vsidx
+.vs/Detail/FileContentIndex/20b1cc4a-31fb-49ae-ae2b-de1305f82db1.vsidx
+.vs/Detail/FileContentIndex/26b602de-4050-4dbd-977d-1407bd2ce324.vsidx
+.vs/Detail/FileContentIndex/2d95121d-df23-444e-ad31-ed89aa3593db.vsidx
+.vs/Detail/FileContentIndex/456afda7-34b8-4aa5-b2df-7183e2eaff13.vsidx
+.vs/Detail/FileContentIndex/4906d445-cbbe-45fc-9485-4cada735c993.vsidx
+.vs/Detail/FileContentIndex/4d1cee27-d350-4336-9d53-87f67e4abdce.vsidx
+.vs/Detail/FileContentIndex/6267eb05-22c9-4612-82ca-99696f38c522.vsidx
+.vs/Detail/FileContentIndex/6f61f617-8e55-40b5-8dd7-c819f4fc8b55.vsidx
+.vs/Detail/FileContentIndex/704ecf25-46a2-4b44-830e-d83b25dbc051.vsidx
+.vs/Detail/FileContentIndex/82fd812c-6824-41f8-980d-a046443ba2b4.vsidx
+.vs/Detail/FileContentIndex/84abf850-1bf5-4782-a435-5451b6e8f667.vsidx
+.vs/Detail/FileContentIndex/95d2f6a4-41e5-4959-9878-5ad21dc6bffe.vsidx
+.vs/Detail/FileContentIndex/971e961d-43c4-4c96-adcc-680172a1e63c.vsidx
+.vs/Detail/FileContentIndex/99dc299c-8d07-4d7d-8eb0-7b96eee9e7fd.vsidx
+.vs/Detail/FileContentIndex/aa5cb52c-e618-4bbf-8de4-e7d74259f75c.vsidx
+.vs/Detail/FileContentIndex/b05c4f12-aa77-4c68-90ea-4f444be19bff.vsidx
+.vs/Detail/FileContentIndex/bf8bdcb2-b37b-4fc0-98c4-e4e218127b24.vsidx
+.vs/Detail/FileContentIndex/c7c3ec96-ff83-49f0-b472-4cd5fbb2a803.vsidx
+.vs/Detail/FileContentIndex/cf4ea55a-7d24-459b-9383-9ebe931c410e.vsidx
+.vs/Detail/FileContentIndex/dcc71530-e09a-40d4-a04b-e3bc303710c5.vsidx
+.vs/Detail/FileContentIndex/e90cf876-6c5b-415d-a7ad-7499e416c1c7.vsidx
+.vs/Detail/FileContentIndex/f1cf371c-5b8a-4777-a824-cbc90978771b.vsidx
+.vs/Detail/v17/.futdcache.v2
+.vs/Detail/v17/.suo
+.vs/Detail/v17/Browse.VC.db
+.vs/Detail/v17/fileList.bin
+.vs/Detail/v17/ipch/2aafdf2742bc56fa.ipch
+.vs/Detail/v17/Solution.VC.db
+.vs/ProjectEvaluation/detail.metadata.v7.bin
+.vs/ProjectEvaluation/detail.projects.v7.bin
+gitignore.txt
+Intermediate/Build/BuildRules/DetailModuleRules.dll
+Intermediate/Build/BuildRules/DetailModuleRules.pdb
+Intermediate/Build/BuildRules/DetailModuleRulesManifest.json
+Intermediate/CachedAssetRegistry_0.bin
+Intermediate/Config/CoalescedSourceConfigs/Bridge.ini
+Intermediate/Config/CoalescedSourceConfigs/Crypto.ini
+Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini
+Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/ObjectMixer.ini
+Intermediate/Config/CoalescedSourceConfigs/ObjectMixerSerializedData.ini
+Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini
+Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini
+Intermediate/ReimportCache/3688439234.bin
+Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Intermediate/TargetInfo.json
+Saved/Autosaves/PackageRestoreData.json
+Saved/AutoScreenshot.png
+Saved/Config/CrashReportClient/UECC-Windows-D9AA1C3C408295CE0254678F8AD994F1/CrashReportClient.ini
+Saved/Config/WindowsEditor/Compat.ini
+Saved/Config/WindowsEditor/ControlRig.ini
+Saved/Config/WindowsEditor/DatasmithContent.ini
+Saved/Config/WindowsEditor/DeviceProfiles.ini
+Saved/Config/WindowsEditor/Editor.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/WindowsEditor/EditorScriptingUtilities.ini
+Saved/Config/WindowsEditor/Engine.ini
+Saved/Config/WindowsEditor/EnhancedInput.ini
+Saved/Config/WindowsEditor/FullBodyIK.ini
+Saved/Config/WindowsEditor/Game.ini
+Saved/Config/WindowsEditor/GameUserSettings.ini
+Saved/Config/WindowsEditor/GLTFExporter.ini
+Saved/Config/WindowsEditor/Hardware.ini
+Saved/Config/WindowsEditor/IKRig.ini
+Saved/Config/WindowsEditor/Input.ini
+Saved/Config/WindowsEditor/InstallBundle.ini
+Saved/Config/WindowsEditor/Interchange.ini
+Saved/Config/WindowsEditor/Lightmass.ini
+Saved/Config/WindowsEditor/Metasound.ini
+Saved/Config/WindowsEditor/Niagara.ini
+Saved/Config/WindowsEditor/Paper2D.ini
+Saved/Config/WindowsEditor/RuntimeOptions.ini
+Saved/Config/WindowsEditor/Scalability.ini
+Saved/Config/WindowsEditor/StructUtils.ini
+Saved/Config/WindowsEditor/Synthesis.ini
+Saved/Config/WindowsEditor/ToolPresets.ini
+Saved/Config/WindowsEditor/TraceDataFilters.ini
+Saved/Config/WindowsEditor/TraceUtilities.ini
+Saved/Config/WindowsEditor/VariantManagerContent.ini
+Saved/Logs/Detail.log
+Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-00005e9c-2023-11-07T22.19.11.169Z.log
+Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-00005e9c-2023-11-07T22.19.14.678Z.log
+
+# Visual Studio 2015 user specific files
+.vs/*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+# These project files can be generated by the engine
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Precompiled Assets
+SourceArt/**/*.png
+SourceArt/**/*.tga
+
+# Binary Files
+detail/Binaries/*
+
+
+# Builds
+Build/*
+
+# Whitelist PakBlacklist-<BuildConfiguration>.txt files
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+
+# Don't ignore icon files in Build
+!Build/**/*.ico
+
+# Built data for maps
+*_BuiltData.uasset
+
+# Configuration files generated by the Editor
+Saved/*
+
+# Compiled source files for the engine to use
+Intermediate/*
+Plugins/*/Intermediate/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+
+
